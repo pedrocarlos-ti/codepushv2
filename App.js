@@ -8,7 +8,7 @@ import CodePush from 'react-native-code-push';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>REACT NATIVE É FODA!@</Text>
+      <Text style={styles.text}>RN COM CODEPUSH!!!!!! --</Text>
       <View style={styles.buttonsContainer}>
         <Button title="Botao1" onPress={() => alert('Sou um Botao')} />
         <Button title="Botao2" onPress={() => alert('Sou outro Botao!')} />
